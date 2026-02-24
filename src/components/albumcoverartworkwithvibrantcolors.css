@@ -1,0 +1,12 @@
+.albumcoverartworkwithvibrantcolors-thq-albumcoverartworkwithvibrantcolors-elm {
+  width: 294px;
+  height: 294px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  background-size: cover;
+  background-image: url("/tq_fs82hbryw8-63ls-300h.png");
+}

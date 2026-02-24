@@ -1,0 +1,16 @@
+.overlay-blur-container {
+  display: contents;
+}
+ 
+.overlay-blur-thq-overlay-blur-elm {
+  width: 256px;
+  height: 256px;
+  position: relative;
+  border-radius: 9999px;
+}
+ 
+.overlay-blurroot-class-name {
+  top: 552px;
+  left: 102px;
+  position: absolute;
+}

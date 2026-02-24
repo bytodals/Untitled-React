@@ -1,0 +1,65 @@
+.secondary-controls-thq-secondary-controls-elm {
+  gap: 114px;
+  width: 358px;
+  height: 47px;
+  display: flex;
+  padding: 5px 38px 22px;
+  z-index: 6;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: center;
+}
+ 
+.secondary-controls-thq-button-elm1 {
+  top: 5px;
+  left: 38px;
+  width: 16px;
+  display: flex;
+  opacity: 0.40;
+  position: absolute;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.secondary-controls-thq-container-elm1 {
+  width: 16px;
+  height: 16px;
+}
+ 
+.secondary-controls-thq-button-elm2 {
+  top: 5px;
+  left: 169px;
+  width: 20px;
+  display: flex;
+  opacity: 0.63;
+  position: absolute;
+  box-shadow: 0px 1px 7.099999904632568px 0px rgba(80, 18, 56, 0.4300000071525574) ;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.secondary-controls-thq-exclude-elm {
+  width: 20px;
+  height: 17px;
+}
+ 
+.secondary-controls-thq-button-elm3 {
+  top: 5px;
+  left: 302px;
+  width: 18px;
+  display: flex;
+  opacity: 0.40;
+  position: absolute;
+  align-items: center;
+  border-radius: 2px;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.secondary-controls-thq-container-elm2 {
+  width: 18px;
+  height: 20px;
+}
